@@ -1,3 +1,4 @@
+package variaveisETipos;
 import java.util.Scanner;
 
 public class parOuImpar {

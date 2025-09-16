@@ -1,3 +1,4 @@
+package variaveisETipos;
 public class conversorDeTemperatura {
     public static void main(String[] args) {
         int Celsius = 20;

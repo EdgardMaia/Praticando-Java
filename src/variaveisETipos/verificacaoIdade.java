@@ -1,5 +1,6 @@
-import java.util.Scanner;
+package variaveisETipos;
 import java.util.Locale;
+import java.util.Scanner;
 
 public class verificacaoIdade {
     public static void main(String[] args) {
