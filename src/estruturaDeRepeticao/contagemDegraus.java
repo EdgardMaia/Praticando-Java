@@ -17,7 +17,7 @@ public class contagemDegraus {
                     Thread.currentThread().interrupt();
                     break; 
                 }
-                System.out.println("Degrau " + i);
+                System.out.println(String.format("Degrau %d", i));
             }
         }
         sc.close();
