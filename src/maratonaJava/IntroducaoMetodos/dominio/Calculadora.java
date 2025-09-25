@@ -18,4 +18,14 @@ public class Calculadora {
             return Double.NaN;
         } else return num1 / num2;
     }
+    public void alteraNumeros(int num1, int num2) {
+        num1 = 99;
+        num2 = 20;
+        System.out.println("Dentro de AlteraNumeros\n");
+        System.out.printf("""
+                num1 = %d
+                num2 = %d 
+                """, num1, num2);
+
+    }
 }

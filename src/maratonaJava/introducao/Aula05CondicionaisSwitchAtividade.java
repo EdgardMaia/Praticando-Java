@@ -7,12 +7,8 @@ public class Aula05CondicionaisSwitchAtividade {
         int dia = 5;
 
         switch (dia) {
-            case 1:
-            case 7:
-                System.out.println("Final de semana");
-                break;
-            default:
-                System.out.println("Dia útil");
+            case 1, 7 -> System.out.println("Final de semana");
+            default -> System.out.println("Dia útil");
         }
     }
 }
