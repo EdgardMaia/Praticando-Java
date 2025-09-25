@@ -1,7 +1,7 @@
-package maratonaJava;
+package maratonaJava.introducao;
 
-import java.util.Scanner;
 import java.util.Locale;
+import java.util.Scanner;
 
 public class Aula06EstruturaDeRepeticaoBreakContinue {
     // Dado valor de um carro descubra quantas vezes ele pode ser parcelado

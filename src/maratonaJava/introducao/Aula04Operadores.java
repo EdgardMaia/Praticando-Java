@@ -1,4 +1,4 @@
-package maratonaJava;
+package maratonaJava.introducao;
 
 import java.util.Scanner;
 

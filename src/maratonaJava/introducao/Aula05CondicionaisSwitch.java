@@ -1,4 +1,4 @@
-package maratonaJava;
+package maratonaJava.introducao;
 
 public class Aula05CondicionaisSwitch {
     // Imprima o dia da semana, considerando 1 como domingo.

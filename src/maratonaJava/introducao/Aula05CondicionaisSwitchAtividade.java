@@ -1,4 +1,4 @@
-package maratonaJava;
+package maratonaJava.introducao;
 
 public class Aula05CondicionaisSwitchAtividade {
     public static void main(String[] args) {
