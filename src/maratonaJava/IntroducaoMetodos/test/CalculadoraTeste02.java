@@ -1,4 +1,4 @@
-package maratonaJava.IntroducaoMetodos.teste;
+package maratonaJava.IntroducaoMetodos.test;
 
 import maratonaJava.IntroducaoMetodos.dominio.Calculadora;
 

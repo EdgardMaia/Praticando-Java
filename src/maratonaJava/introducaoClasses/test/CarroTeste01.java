@@ -2,7 +2,7 @@ package maratonaJava.introducaoClasses.test;
 
 import maratonaJava.introducaoClasses.dominio.Moto;
 
-public class carroTeste01 {
+public class CarroTeste01 {
     public static void main(String[] args) {
         Moto moto1 = new Moto();
         Moto moto2 = new Moto();

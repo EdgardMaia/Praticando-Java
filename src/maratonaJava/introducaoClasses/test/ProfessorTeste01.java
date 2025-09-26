@@ -2,7 +2,7 @@ package maratonaJava.introducaoClasses.test;
 
 import maratonaJava.introducaoClasses.dominio.Professor;
 
-public class professorTeste01 {
+public class ProfessorTeste01 {
     public static void main(String[] args) {
         Professor professor = new Professor();
         professor.nome = "Vitoria";
