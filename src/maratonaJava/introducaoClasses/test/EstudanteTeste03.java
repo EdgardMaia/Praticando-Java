@@ -14,6 +14,5 @@ public class EstudanteTeste03 {
         estudante02.nome = "Saber";
         estudante02.idade = 1500;
         estudante02.sexo = 'F';
-        
     }
 }
