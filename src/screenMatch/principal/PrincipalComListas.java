@@ -1,8 +1,8 @@
-package br.com.alura.screenmatch.principal;
+package screenMatch.principal;
 
-import br.com.alura.screenmatch.modelos.Filme;
-import br.com.alura.screenmatch.modelos.Serie;
-import br.com.alura.screenmatch.modelos.Titulo;
+import screenMatch.modelos.Filme;
+import screenMatch.modelos.Serie;
+import screenMatch.modelos.Titulo;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -51,3 +51,4 @@ public class PrincipalComListas {
         System.out.println(lista);
     }
 }
+
